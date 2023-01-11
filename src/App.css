@@ -123,6 +123,9 @@ span{
   justify-content: center;
   align-items: center;
 }
+.close:hover {
+  background-color: yellowgreen;
+}
 .dt{
   color: green;
   font-weight: bolder;
